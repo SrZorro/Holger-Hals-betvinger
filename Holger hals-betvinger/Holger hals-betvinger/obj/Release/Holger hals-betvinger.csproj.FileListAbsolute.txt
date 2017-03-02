@@ -1,0 +1,9 @@
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\bin\Release\Holger hals-betvinger.exe.config
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\bin\Release\Holger hals-betvinger.exe
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\bin\Release\Holger hals-betvinger.pdb
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Release\Holger_hals_betvinger.Form1.resources
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Release\Holger_hals_betvinger.Properties.Resources.resources
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Release\Holger hals-betvinger.csproj.GenerateResource.Cache
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Release\Holger hals-betvinger.exe
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Release\Holger hals-betvinger.pdb
+C:\Users\mort358d\Documents\Visual Studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Release\Holger hals-betvinger.csprojResolveAssemblyReference.cache

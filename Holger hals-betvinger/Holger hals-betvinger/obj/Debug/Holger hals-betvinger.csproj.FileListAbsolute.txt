@@ -1,0 +1,18 @@
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\bin\Debug\Holger hals-betvinger.exe.config
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\bin\Debug\Holger hals-betvinger.exe
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\bin\Debug\Holger hals-betvinger.pdb
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger_hals_betvinger.Form1.resources
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger_hals_betvinger.Properties.Resources.resources
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.csproj.GenerateResource.Cache
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.exe
+c:\users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.pdb
+C:\Users\mort358d\documents\visual studio 2015\Projects\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.csprojResolveAssemblyReference.cache
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\bin\Debug\Holger hals-betvinger.exe.config
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.exe
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.pdb
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\bin\Debug\Holger hals-betvinger.exe
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\bin\Debug\Holger hals-betvinger.pdb
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.csprojResolveAssemblyReference.cache
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger_hals_betvinger.Form1.resources
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger_hals_betvinger.Properties.Resources.resources
+C:\Users\mortensn\Desktop\programering\c#\Holger\Holger hals-betvinger\Holger hals-betvinger\obj\Debug\Holger hals-betvinger.csproj.GenerateResource.Cache
